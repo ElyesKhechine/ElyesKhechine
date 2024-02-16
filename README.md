@@ -2,7 +2,7 @@
  
 <img alt="my stats" align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ElyesKhechine&show_icons=true&hide=issues"/>
 
-<img alt="top langs"  align ="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesKhechine&layout=compact"/>
+<img alt="top langs"  align ="left" width="20%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesKhechine&layout=compact"/>
 <!--
 **ElyesKhechine/ElyesKhechine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
