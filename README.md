@@ -2,17 +2,12 @@
 
 <h2 align="center">A Robotics Engineer</h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 
 <div align="center">
   <a href="https://github.com/ElyesKhechine?tab=repositories">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
   </a>
 </div>
-
-
-
 
 
 💼 **Experience:** I'm a seasoned robotics engineer specializing in autonomous vehicles with a portfolio boasting 34+ successful projects. My expertise includes robot control, autonomous navigation, computer vision, embedded systems, and cutting-edge research techniques.
@@ -23,15 +18,11 @@
 
 📧 **Contact:** Feel free to reach out to me at elyeskhechine@gmail.com
 
-<div align="left"><h3> :rocket: Explore my Portfolio:</h3></div>
-
-<p align="center">
-	<a href="https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko">EN</a>
+:rocket: **Explore my Portfolio:** <a href="https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko">English</a>
 	|
-	<a href="https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko">FR</a>
-<p align="center" > 
-	
-</p>
+	<a href="https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko">French</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
 
