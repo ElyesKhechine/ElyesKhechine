@@ -12,7 +12,7 @@
 
 💼 **Experience:** I'm a seasoned robotics engineer specializing in autonomous vehicles with a portfolio boasting 34+ successful projects. My expertise includes robot control, autonomous navigation, computer vision, embedded systems, and cutting-edge research techniques.
 
-🌱 **Current Focus:** Continuously expanding my skills in space robotics, self-driving cars, AI research, and computer vision. Currently delving into the realms of reinforcement learning and robot learning algorithm development.
+🌱 **Current Focus:** Continuously expanding my skills in robotics, computer vision, self-driving cars, and AI research. Currently delving into the realms of reinforcement learning and robot learning algorithms.
 
 🔍 **Seeking:** Jobs, internships, collaboration opportunities on groundbreaking projects, and connection with like-minded professionals to innovate on robotic solutions.
 
