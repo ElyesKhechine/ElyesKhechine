@@ -14,7 +14,7 @@
 
 🌱 **Current Focus:** Continuously expanding my skills in space robotics, self-driving cars, AI research, and computer vision. Currently delving into the realms of reinforcement learning and robot learning algorithm development.
 
-🔍 **Seeking:** Enthusiastic about collaborating on groundbreaking projects and connecting with like-minded professionals to innovate robotic solutions.
+🔍 **Seeking:** Jobs, internships, collaboration opportunities on groundbreaking projects, and connection with like-minded professionals to innovate robotic solutions.
 
 📧 **Contact:** Feel free to reach out to me at elyeskhechine@gmail.com
 
