@@ -54,18 +54,37 @@
     </a>
 </div>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">👨🏻‍💻 Technologies & Tools</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,linux,ros,tensorflow,sklearn,opencv,pytorch,mysql,matlab,anaconda,androidstudio,kotlin,raspberrypi,arduino,autocad,bash,firebase,blender,cs,unity,vscode,eclipse,cmake,docker,grafana,js,html,css,git,github,gitlab,discord&perline=14" />
-  </a>
-</p>
+<details open>
+    <summary><h2>🛠️ Tech Stack</h2></summary>
+    <div align=center>
+    <table>
+      <tr>
+        <th align="right">Category</th>
+        <th align="left">Technologies</th>
+      </tr>
+      <tr>
+        <td align="right">Languages</td>
+        <td><img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab,bash,mysql,html,css,js,kotlin" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Libraries</td>
+        <td><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Platforms</td>
+        <td><img src="https://skillicons.dev/icons?i=ros,linux,raspberrypi,arduino,android" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Environments</td>
+        <td><img src="https://skillicons.dev/icons?i=anaconda,vscode,eclipse,cmake,docker,androidstudio,grafana,git,github,gitlab,discord" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Creative</td>
+        <td><img src="https://skillicons.dev/icons?i=blender,unity,autocad" height="35px"/></td>
+      </tr>
+    </table>
+	</div>
+  </details>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Notable Repositories</b>
