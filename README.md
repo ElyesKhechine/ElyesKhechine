@@ -40,6 +40,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElyesKhechine&theme=dark" />
 </picture></p>
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Trophies :</b>
+
+<p align="center">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=ElyesKhechine&theme=darkhub" alt="ElyesKhechine" />
+</p>
+
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Notable Repositories</b>
 
 <p align="center">
@@ -92,13 +101,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ElyesKhechine&repo=punks-line-follower-and-maze-solver-robot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a></p>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Trophies :</b>
-
-<p align="center">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=ElyesKhechine&theme=darkhub" alt="ElyesKhechine" />
-</p>
 
 
 
