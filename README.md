@@ -40,7 +40,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ElyesKhechine&theme=ocean-gradient" alt="GitHub Streak" /></a>
 </td>
 
-<td width="50%" align="center">
+<td width="35%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesKhechine&layout=pie&langs_count=30&bg_color=90,0093ea,4cb7d5&title_color=fff&text_color=fff"/>
   
