@@ -10,6 +10,8 @@
 
 📧 **Contact:** Feel free to reach out to me at elyeskhechine@gmail.com
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ElyesKhechine&label=Profile%20views&color=0e75b6&style=flat" alt="ElyesKhechine" /> </p>
+
 <p align="right" > <h3> :rocket: Explore my Portfolio:</h3>
 
 [Click here!](https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko&utm_campaign=designshare&utm_medium=link&utm_source=editor)
