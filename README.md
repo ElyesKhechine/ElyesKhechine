@@ -1,10 +1,10 @@
 <h1 align="center">Welcome! I'm Elyes Khechine 👋</h1>
-<h2 align="center">Robotics Engineer</h2>
+<h2 align="center">A Robotics Engineer</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-💼 **Experience:** I'm a seasoned robotics engineer specializing in autonomous vehicles with a portfolio boasting 34+ successful projects. My expertise includes robot control, embedded systems, autonomous navigation, computer vision, and cutting-edge research techniques.
+💼 **Experience:** I'm a seasoned robotics engineer specializing in autonomous vehicles with a portfolio boasting 34+ successful projects. My expertise includes robot control, autonomous navigation, computer vision, embedded systems, and cutting-edge research techniques.
 
-🌱 **Current Focus:** Continuously expanding my skills in AI research, self-driving cars, aerospace engineering, and computer vision. Currently delving into the realms of reinforcement learning and robot learning algorithm development.
+🌱 **Current Focus:** Continuously expanding my skills in space robotics, self-driving cars, AI research, and computer vision. Currently delving into the realms of reinforcement learning and robot learning algorithm development.
 
 🔍 **Seeking:** Enthusiastic about collaborating on groundbreaking projects and connecting with like-minded professionals to innovate robotic solutions.
 
@@ -14,13 +14,19 @@
 
 [Click here!](https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+<h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
+
+<p align="center">
+	<a href="https://github.com/ElyesKhechine/ElyesKhechine"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/ElyesKhechine/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/ElyesKhechine"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElyesKhechine&bg_color=30,006ea9,9fc9e5&title_color=fff&text_color=fff&show_icons=true&show=prs_merged_percentage&theme=dark&hide=issues" /></p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesKhechine&layout=pie&langs_count=30&bg_color=30,006ea9,9fc9e5&title_color=fff&text_color=000" /></p>
-
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesKhechine&layout=pie&langs_count=30&bg_color=30,006ea9,9fc9e5&title_color=fff&text_color=000" /></pN>
 
 <p align="center"> <picture>
   <source
@@ -95,13 +101,7 @@
 </p>
 
 
-<h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
-<p align="center">
-	<a href="https://github.com/ElyesKhechine/ElyesKhechine"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/ElyesKhechine/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/ElyesKhechine"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-</p>
 <!--
 **ElyesKhechine/ElyesKhechine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
