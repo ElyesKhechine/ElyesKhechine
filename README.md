@@ -1,11 +1,18 @@
-<h1 align="center ">Hi there 👋 I'm Elyes Khechine</h1>
-
+<h1 align="center">Welcome! I'm Elyes Khechine 👋</h1>
+<h2 align="center">Robotics Engineer</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+💼 **Experience:** I'm a seasoned robotics engineer specializing in autonomous vehicles with a portfolio boasting 34+ successful projects. My expertise includes robot control, embedded systems, autonomous navigation, computer vision, and cutting-edge research techniques.
 
-<p align="right" > <h3> :rocket: Visit my Projects Prortfolio:</h3>
+🌱 **Current Focus:** Continuously expanding my skills in AI research, self-driving cars, aerospace engineering, and computer vision. Currently delving into the realms of reinforcement learning and robot learning algorithm development.
 
-[Click here to explore my Portfolio!](https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+🔍 **Seeking:** Enthusiastic about collaborating on groundbreaking projects and connecting with like-minded professionals to innovate robotic solutions.
+
+📧 **Contact:** Feel free to reach out to me at elyeskhechine@gmail.com or +216 92 901 601.
+
+<p align="right" > <h3> :rocket: Explore my Portfolio:</h3>
+
+[Click here!](https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
