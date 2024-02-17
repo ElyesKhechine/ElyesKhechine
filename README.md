@@ -1,6 +1,15 @@
-<h1 align="center">Welcome! I'm Elyes Khechine 👋</h1>
+<h1 align="center">Hi! I'm Elyes Khechine 👋</h1>
+
 <h2 align="center">A Robotics Engineer</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  </a>
+</div>
+
 
 💼 **Experience:** I'm a seasoned robotics engineer specializing in autonomous vehicles with a portfolio boasting 34+ successful projects. My expertise includes robot control, autonomous navigation, computer vision, embedded systems, and cutting-edge research techniques.
 
@@ -10,44 +19,57 @@
 
 📧 **Contact:** Feel free to reach out to me at elyeskhechine@gmail.com
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ElyesKhechine&label=Profile%20views&color=0e75b6&style=flat" alt="ElyesKhechine" /> </p>
-
-<p align="right" > <h3> :rocket: Explore my Portfolio:</h3>
-
-[Click here!](https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-<h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
+<div align="left"><h3> :rocket: Explore my Portfolio:</h3></div>
 
 <p align="center">
-	<a href="https://github.com/ElyesKhechine/ElyesKhechine"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/ElyesKhechine/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/ElyesKhechine"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko">EN</a>
+	|
+	<a href="https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko">FR</a>
+<p align="center" > 
+	
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElyesKhechine&bg_color=30,006ea9,9fc9e5&title_color=fff&text_color=fff&show_icons=true&show=prs_merged_percentage&theme=dark&hide=issues" /></p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesKhechine&layout=pie&langs_count=30&bg_color=30,006ea9,9fc9e5&title_color=fff&text_color=000" /></pN>
-
-<p align="center"> <picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ElyesKhechine&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=ElyesKhechine"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElyesKhechine&theme=dark" />
-</picture></p>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Trophies :</b>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ElyesKhechine&label=Profile%20views&color=0e75b6&style=flat" alt="ElyesKhechine" /> </p>
 
 <p align="center">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=ElyesKhechine&theme=darkhub" alt="ElyesKhechine" />
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ElyesKhechine&bg_color=90,0093ea,4cb7d5&title_color=fff&text_color=fff&show_icons=true&show=prs_merged_percentage&theme=dark&hide=issues" />
+  <br></br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ElyesKhechine&theme=ocean-gradient" alt="GitHub Streak" /></a>
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesKhechine&layout=pie&langs_count=30&bg_color=90,0093ea,4cb7d5&title_color=fff&text_color=fff"/>
+  
+  </td>
+</tr>
+</table>
+
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ElyesKhechine&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">👨🏻‍💻 Technologies & Tools</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,linux,ros,tensorflow,sklearn,opencv,pytorch,mysql,matlab,anaconda,androidstudio,kotlin,raspberrypi,arduino,autocad,bash,firebase,blender,cs,unity,vscode,eclipse,cmake,docker,grafana,js,html,css,git,github,gitlab,discord&perline=14" />
+  </a>
 </p>
 
 
@@ -104,7 +126,13 @@
 </a></p>
 
 
+<h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
+<p align="center">
+	<a href="https://www.linkedin.com/in/ElyesKhechine/"><img alt="linkedin" width="5%" style="padding:100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>
+	<a href="https://www.facebook.com/ElyesKhechine"><img alt="facebook" width="5%" style="padding:100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png"/></a>
+</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--
 **ElyesKhechine/ElyesKhechine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
