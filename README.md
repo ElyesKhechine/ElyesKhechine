@@ -8,7 +8,7 @@
 
 🔍 **Seeking:** Enthusiastic about collaborating on groundbreaking projects and connecting with like-minded professionals to innovate robotic solutions.
 
-📧 **Contact:** Feel free to reach out to me at elyeskhechine@gmail.com or +216 92 901 601.
+📧 **Contact:** Feel free to reach out to me at elyeskhechine@gmail.com
 
 <p align="right" > <h3> :rocket: Explore my Portfolio:</h3>
 
