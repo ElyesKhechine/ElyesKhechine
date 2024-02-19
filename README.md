@@ -18,9 +18,9 @@
 
 📧 **Contact:** Feel free to reach out to me at elyeskhechine@gmail.com
 
-:rocket: **Explore my Portfolio:** <a href="https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko">English</a>
+:rocket: **Explore my Portfolio:** <a href="https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view">English</a>
 	|
-	<a href="https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view?utm_content=DAF3rZIKZko">French</a>
+	<a href="https://www.canva.com/design/DAF9Qh1MGJc/ar9aDX8UrFIRngFLIsDTpg/view">French</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
