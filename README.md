@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/ElyesKhechine?tab=repositories">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake">
   </a>
 </div>
 
