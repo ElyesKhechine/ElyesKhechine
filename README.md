@@ -14,7 +14,7 @@
 
 🌱 **Current Focus:** Continuously expanding my skills in software development.
 
-🔍 **Seeking:** Jobs opportunities on groundbreaking projects, and connection with like-minded professionals to innovate on solutions.
+🔍 **Seeking:** Jobs opportunities and connection with like-minded innovative professionals.
 
 📧 **Contact:** Feel free to reach out to me on <a href="https://www.linkedin.com/in/ElyesKhechine/">LinkedIn</a> or via email: elyeskhechine@gmail.com
 
