@@ -64,7 +64,7 @@
       </tr>
       <tr>
         <td align="right">Languages</td>
-        <td><img src="https://skillicons.dev/icons?i=c,cpp,python,java,c#,matlab,bash,mysql,html,css,js,kotlin" height="35px"/></td>
+        <td><img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs,matlab,bash,mysql,html,css,js,kotlin" height="35px"/></td>
       </tr>
       <tr>
         <td align="right">Libraries</td>
