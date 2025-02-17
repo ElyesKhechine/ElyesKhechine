@@ -18,7 +18,7 @@
 
 📧 **Contact:** Feel free to reach out to me at elyeskhechine@gmail.com
 
-:rocket: **Explore my Portfolio:** <a href="https://www.canva.com/design/DAF3rZIKZko/VwEukLMB0W4pAopR516VCA/view">English</a>
+:rocket: **Explore my Portfolio:** <a href="https://www.canva.com/design/DAF3rZIKZko/qgmTIHFvbO6HxTUjEFiXcQ/view">English</a>
 	|
 	<a href="https://www.canva.com/design/DAF9Qh1MGJc/ar9aDX8UrFIRngFLIsDTpg/view">French</a>
 
