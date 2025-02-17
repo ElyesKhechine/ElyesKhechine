@@ -10,13 +10,13 @@
 </div>
 
 
-💼 **Experience:** I'm a seasoned robotics engineer specializing in autonomous vehicles with a portfolio boasting 34+ successful projects. My expertise includes robot control, autonomous navigation, computer vision, embedded systems, and cutting-edge research techniques.
+💼 **Experience:** I'm a robotics software engineer with a background in designing, programming, and testing robots and UAVs. I have worked on 20+ projects involving robot control, motion planning, deep learning, computer vision, and embedded systems. I love designing user-friendly robots, architecting robust systems, managing innovative projects and leading cross-functional teams.
 
-🌱 **Current Focus:** Continuously expanding my skills in robotics, computer vision, self-driving cars, and AI research. Currently delving into the realms of reinforcement learning and robot learning algorithms.
+🌱 **Current Focus:** Continuously expanding my skills in software development.
 
-🔍 **Seeking:** Jobs, internships, collaboration opportunities on groundbreaking projects, and connection with like-minded professionals to innovate on robotic solutions.
+🔍 **Seeking:** Jobs opportunities on groundbreaking projects, and connection with like-minded professionals to innovate on solutions.
 
-📧 **Contact:** Feel free to reach out to me at elyeskhechine@gmail.com
+📧 **Contact:** Feel free to reach out to me on <a href="https://www.linkedin.com/in/ElyesKhechine/">LinkedIn</a> or via email: elyeskhechine@gmail.com
 
 :rocket: **Explore my Portfolio:** <a href="https://www.canva.com/design/DAF3rZIKZko/qgmTIHFvbO6HxTUjEFiXcQ/view">English</a>
 	|
@@ -143,7 +143,6 @@
 <h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/ElyesKhechine/"><img alt="linkedin" width="5%" style="padding:100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>
-	<a href="https://www.facebook.com/ElyesKhechine"><img alt="facebook" width="5%" style="padding:100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
