@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Elyes Khechine 👋</h1>
 
-<h2 align="center">A Robotics Engineer</h2>
+<h2 align="center">A Robotics Software Engineer</h2>
 
 
 <div align="center">
@@ -96,9 +96,6 @@
 <a href="https://github.com/ElyesKhechine/distracted-driver-behavior-classification-with-vgg16">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ElyesKhechine&repo=distracted-driver-behavior-classification-with-vgg16&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/TUNSA-Space-Robotics/tunsa-sr-nasa-space-apps-2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=TUNSA-Space-Robotics&repo=tunsa-sr-nasa-space-apps-2023&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
 <a href="https://github.com/ElyesKhechine/i-cowcare-iot-health-monitoring">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ElyesKhechine&repo=i-cowcare-iot-health-monitoring&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
@@ -114,23 +111,14 @@
 <a href="https://github.com/TUNSA-Space-Robotics/tunsa-sr-f1tenth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=TUNSA-Space-Robotics&repo=tunsa-sr-f1tenth&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/TUNSA-Space-Robotics/tunsa-sr-lunar-base-3d-printing-robot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=TUNSA-Space-Robotics&repo=tunsa-sr-lunar-base-3d-printing-robot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
 <a href="https://github.com/TUNSA-Space-Robotics/tunsa-sr-3rd-kibo-rpc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=TUNSA-Space-Robotics&repo=tunsa-sr-3rd-kibo-rpc&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/TUNSA-Space-Robotics/tunsa-sr-teknofest-robotaxi-level-4-autonomous-vehicle">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=TUNSA-Space-Robotics&repo=tunsa-sr-teknofest-robotaxi-level-4-autonomous-vehicle&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="https://github.com/TUNSA-Space-Robotics/tunsa-sr-nasa-space-apps-2022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=TUNSA-Space-Robotics&repo=tunsa-sr-nasa-space-apps-2022&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
 <a href="https://github.com/ElyesKhechine/tunsa-ai-rl-deep-q-network">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ElyesKhechine&repo=tunsa-ai-rl-deep-q-network&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/ElyesKhechine/ieee-insat-ias-electric-vehicle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ElyesKhechine&repo=ieee-insat-ias-electric-vehicle&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/ElyesKhechine/robolympix-2021-autonomous-athlete-robot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ElyesKhechine&repo=robolympix-2021-autonomous-athlete-robot&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
