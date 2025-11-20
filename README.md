@@ -10,11 +10,9 @@
 </div>
 
 
-💼 **Experience:** I'm a robotics software engineer with a background in designing, programming, and testing robots and UAVs. I have worked on 20+ projects involving robot control, motion planning, deep learning, computer vision, and embedded systems. I love designing user-friendly robots, architecting robust systems, managing innovative projects and leading cross-functional teams.
+💼 **Experience:** I am a software engineer with dual degrees and about 3 years of professional experience. My background combines solid theoretical foundations with hands-on work in robotics and embedded systems. I have contributed to several projects involving robot control, motion planning, perception (computer vision, LiDAR, sensor fusion), embedded development in C/C++, embedded Linux, and RTOS. I focus on building reliable and functional systems that translate theoretical concepts into real-world performance.
 
-🌱 **Current Focus:** Continuously expanding my skills in software development.
-
-🔍 **Seeking:** Jobs opportunities and connection with like-minded innovative professionals.
+I’m eager to apply my skills and contribute to developing robust, high-value, and maintainable solutions.
 
 📧 **Contact:** Feel free to reach out to me on <a href="https://www.linkedin.com/in/ElyesKhechine/">LinkedIn</a> or via email: elyeskhechine@gmail.com
 
