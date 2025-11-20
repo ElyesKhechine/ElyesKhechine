@@ -12,8 +12,6 @@
 
 💼 **Experience:** I am a software engineer with dual degrees and about 3 years of professional experience. My background combines solid theoretical foundations with hands-on work in robotics and embedded systems. I have contributed to several projects involving robot control, motion planning, perception (computer vision, LiDAR, sensor fusion), embedded development in C/C++, embedded Linux, and RTOS. I focus on building reliable and functional systems that translate theoretical concepts into real-world performance.
 
-I’m eager to apply my skills and contribute to developing robust, high-value, and maintainable solutions.
-
 📧 **Contact:** Feel free to reach out to me on <a href="https://www.linkedin.com/in/ElyesKhechine/">LinkedIn</a> or via email: elyeskhechine@gmail.com
 
 :rocket: **Explore my Portfolio:** <a href="https://www.canva.com/design/DAF3rZIKZko/qgmTIHFvbO6HxTUjEFiXcQ/view">English</a>
