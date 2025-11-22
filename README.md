@@ -23,32 +23,23 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ElyesKhechine&label=Profile%20views&color=0e75b6&style=flat" alt="ElyesKhechine" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ElyesKhechine&label=Profile%20views&color=262717&style=flat" alt="ElyesKhechine" /> </p>
 
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ElyesKhechine&bg_color=90,0093ea,4cb7d5&title_color=fff&text_color=fff&show_icons=true&show=prs_merged_percentage&theme=dark&hide=issues" />
-  <br></br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ElyesKhechine&theme=ocean-gradient" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ElyesKhechine&theme=dark" alt="GitHub Streak" /></a>
 </td>
 
 <td width="35%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesKhechine&layout=pie&langs_count=30&bg_color=90,0093ea,4cb7d5&title_color=fff&text_color=fff"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesKhechine&layout=pie&langs_count=30&theme=dark&title_color=fff&text_color=fff"/>
   
   </td>
 </tr>
 </table>
-
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ElyesKhechine&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
 
 <details open>
     <summary><h2>🛠️ Tech Stack</h2></summary>
@@ -60,7 +51,7 @@
       </tr>
       <tr>
         <td align="right">Languages</td>
-        <td><img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs,matlab,bash,mysql,html,css,js,kotlin" height="35px"/></td>
+        <td><img src="https://skillicons.dev/icons?i=c,cpp,python,java,cs,matlab,bash" height="35px"/></td>
       </tr>
       <tr>
         <td align="right">Libraries</td>
@@ -69,10 +60,6 @@
       <tr>
         <td align="right">Platforms</td>
         <td><img src="https://skillicons.dev/icons?i=ros,linux,raspberrypi,arduino,android" height="35px"/></td>
-      </tr>
-      <tr>
-        <td align="right">Environments</td>
-        <td><img src="https://skillicons.dev/icons?i=anaconda,vscode,eclipse,cmake,docker,androidstudio,grafana,git,github,gitlab,discord" height="35px"/></td>
       </tr>
       <tr>
         <td align="right">Creative</td>
