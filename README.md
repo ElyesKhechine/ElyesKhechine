@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Elyes Khechine 👋</h1>
 
-<h2 align="center">A Robotics Software Engineer</h2>
+<h2 align="center">An Embedded Software Engineer</h2>
 
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 
-💼 **Experience:** I am a software engineer with dual degrees and about 3 years of experience. My background combines solid theoretical foundations with hands-on work in robotics and embedded systems. I have contributed to several projects involving robot control, motion planning, perception (computer vision, LiDAR, sensor fusion), embedded development in C/C++, embedded Linux, and RTOS. I focus on building reliable and functional systems that translate theoretical concepts into real-world performance.
+💼 **Experience:** I am an embedded software engineer with dual degrees and about 3 years of experience. My background combines solid theoretical foundations with hands-on work in embedded systems and robotics. I have contributed to several projects involving embedded development in C/C++, embedded Linux, RTOS, control engineering, motion planning, and perception (computer vision, LiDAR, sensor fusion). I focus on building reliable and functional systems that translate theoretical concepts into real-world performance.
 
 📧 **Contact:** Feel free to reach out to me on <a href="https://www.linkedin.com/in/ElyesKhechine/">LinkedIn</a> or via email: elyeskhechine@gmail.com
 
