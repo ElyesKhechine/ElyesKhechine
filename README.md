@@ -69,11 +69,6 @@
 	</div>
   </details>
 
-<h3  > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
-<p align="center">
-	<a href="https://www.linkedin.com/in/ElyesKhechine/"><img alt="linkedin" width="5%" style="padding:100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/></a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--
